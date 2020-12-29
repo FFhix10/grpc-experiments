@@ -22,8 +22,8 @@
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.7",
     "rxjs": "^6.2.0",
-    "ts-loader": "^4.3.1",
-    "webpack": "^4.11.1",
+    "ts-loader": "^6.0.0",
+    "webpack": "^5.0.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
